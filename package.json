@@ -3,9 +3,12 @@
   "version": "1.0.0",
   "description": "App React com JSON Server",
   "main": "index.js",
+  "homepage": "https://laysegabi.github.io/meus-jogos",
   "scripts": {
     "start": "concurrently \"npm run start-react\" \"npm run start-api\"",
     "build": "react-scripts build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start-react": "react-scripts start",
     "start-api": "json-server --watch db.json --port 4000"
   },
@@ -18,7 +21,8 @@
   },
   "devDependencies": {
     "concurrently": "^8.0.0",
-    "json-server": "^0.17.0"
+    "json-server": "^0.17.0",
+    "gh-pages": "^6.3.0"
   },
   "browserslist": {
     "production": [

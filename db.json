@@ -94,14 +94,14 @@
     {
       "id": 14,
       "title": "Baldur’s Gate 3",
-      "rating": 5,
+      "rating": 4,
       "link": "https://baldursgate3.game/",
       "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1086940/header.jpg"
     },
     {
       "id": 15,
       "title": "Animal Crossing: New Horizons",
-      "rating": 5,
+      "rating": 4,
       "link": "https://www.animal-crossing.com/new-horizons/",
       "image": "https://mediaproxy.tvtropes.org/width/1200/https://static.tvtropes.org/pmwiki/pub/images/1000008586.jpg"
     }
