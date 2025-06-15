@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/meus-jogos/static/css/main.9f1a24fc.css",
+    "main.js": "/meus-jogos/static/js/main.14f50e5c.js",
+    "static/media/banner-gif.gif": "/meus-jogos/static/media/banner-gif.c235fa492eb50a2a5dc8.gif",
+    "index.html": "/meus-jogos/index.html",
+    "main.9f1a24fc.css.map": "/meus-jogos/static/css/main.9f1a24fc.css.map",
+    "main.14f50e5c.js.map": "/meus-jogos/static/js/main.14f50e5c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9f1a24fc.css",
+    "static/js/main.14f50e5c.js"
+  ]
+}
